@@ -1,5 +1,10 @@
 == README
 
+coder manual project application
+subscription based web application
+http://codermanual.com
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
